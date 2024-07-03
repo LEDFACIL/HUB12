@@ -19,3 +19,4 @@ Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a
 
 Damián G. Lasso -> https://ledfacil.com.ar/ & https://lasso-tech.com/
 
+![INFO](https://github.com/LEDFACIL/HUB12/blob/main/6c04174f-1d15-4aa2-9361-67b451febb8f.jpg)
