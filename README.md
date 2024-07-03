@@ -7,6 +7,7 @@ Programa *.ino -> https://github.com/LEDFACIL/HUB12/blob/main/hub12_.ino
 
 ![INFO](https://github.com/LEDFACIL/HUB12/blob/main/info.jpg)
 
+Hoja de cálculo para generar los valores de los elementos del arreglo -> https://lasso-tech.com/productos/hoja-de-calculo-hub12-rg/
 Si compartes, por favor respeta la autoría de este contenido.
 
 Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a la derecha "Code" y luego en el menú que se despliega seleccionar "Download ZIP".
