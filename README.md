@@ -1,5 +1,7 @@
 # HUB12
-P10 HUB12 RG 1/4 Scan ESP32 control without libraries
+P10 HUB12 RG 1/4 Scan ESP32 control without libraries...
+
+P10 HUB12 RG 1/4 Scan ESP32 control Arduino IDE sin librerías...
 
 Trabajo con una placa de desarrollo ESP32 Devkit v1 y programo en C++ con Arduino IDE.
 
