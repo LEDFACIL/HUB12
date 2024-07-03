@@ -7,7 +7,7 @@ Trabajo con una placa de desarrollo ESP32 Devkit v1 y programo en C++ con Arduin
 
 Video completo ->
 
-Programa *.ino -> https://github.com/LEDFACIL/HUB12/blob/main/hub12_.ino
+Código -> https://github.com/LEDFACIL/HUB12/blob/main/hub12_.ino
 
 ![INFO](https://github.com/LEDFACIL/HUB12/blob/main/info.jpg)
 
