@@ -3,7 +3,9 @@ P10 HUB12 RG 1/4 Scan ESP32 control without libraries
 
 Trabajo con una placa de desarrollo ESP32 Devkit v1 y programo en C++ con Arduino IDE.
 
-Programa *.ino -> 
+Programa *.ino -> https://github.com/LEDFACIL/HUB12/blob/main/hub12_.ino
+
+![INFO](https://github.com/LEDFACIL/HUB12/blob/main/info.jpg)
 
 Si compartes, por favor respeta la autoría de este contenido.
 
@@ -12,3 +14,4 @@ Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a
 Éxito con eso!!!
 
 Damián G. Lasso -> https://ledfacil.com.ar/ & https://lasso-tech.com/
+
