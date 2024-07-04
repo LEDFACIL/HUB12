@@ -15,6 +15,8 @@ Hoja de cálculo para generar los valores de los elementos del arreglo -> https:
 
 ![Ejemplo hoja de cálculo](https://github.com/LEDFACIL/HUB12/blob/main/hc.jpg)
 
+Video sobre implementar este código con un PIC16F628A con MPLAB X IDE: https://youtu.be/6-m6kqyzs4M
+
 Si compartes, por favor respeta la autoría de este contenido.
 
 Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a la derecha "Code" y luego en el menú que se despliega seleccionar "Download ZIP".
