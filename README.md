@@ -1,9 +1,9 @@
 # HUB12
-P10 HUB12 RG 1/4 Scan ESP32 control without libraries...
+P10 HUB12 RG 1/4 Scan 32x16 ESP32 control without libraries...
 
-P10 HUB12 RG 1/4 Scan ESP32 control Arduino IDE sin librerías...
+P10 HUB12 RG 1/4 Scan 32x16 ESP32 control Arduino IDE sin librerías...
 
-Trabajo con una placa de desarrollo ESP32 Devkit v1 y programo en C++ con Arduino IDE.
+Uso con una placa de desarrollo ESP32 Devkit v1 y programo en C++ con Arduino IDE.
 
 Video completo -> https://youtu.be/TSmu0f7LyQU
 
@@ -17,7 +17,7 @@ Hoja de cálculo para generar los valores de los elementos del arreglo -> https:
 
 Video sobre implementar este código con un PIC16F628A con MPLAB X IDE: https://youtu.be/6-m6kqyzs4M
 
-Si compartes, por favor respeta la autoría de este contenido.
+Si compartís, por favor respetá la autoría de este contenido.
 
 Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a la derecha "Code" y luego en el menú que se despliega seleccionar "Download ZIP".
 
